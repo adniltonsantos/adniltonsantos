@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/adnilton/" target="_blank">
     <img 
-        src="assets/icons/linkedin.svg" 
+        src="linkedin.svg" 
         alt="linkedIn" 
         width="25" 
         align="right" />
@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 <a href="mailto:adniltonweb@gmail.com" target="_blank">
     <img 
-        src="assets/icons/gmail.svg" 
+        src="agmail.svg" 
         alt="codewars" 
         width="25" 
         align="right" />
 </a>
 
-<a href="https://twitter.com/_Guilbs" target="_blank">
+<a href="https://twitter.com/adniltonweb" target="_blank">
     <img 
-        src="assets/icons/twitter.svg" 
+        src="twitter.svg" 
         alt="codewars" 
         width="25" 
         align="right" />
