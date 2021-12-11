@@ -39,9 +39,6 @@ Here are some ideas to get you started:
         align="right" />
 </a>
 
-# Hi there, I'm Adnilton 👋
-
-
 ## Some statics
 
 <img src='https://github-readme-stats.vercel.app/api?username=adniltonsantos&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
