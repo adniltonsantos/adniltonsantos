@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 
 <img src='https://github-readme-stats.vercel.app/api?username=adniltonsantos&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=adniltonsantos&theme=tokyonight&hide_langs_below=4' />
+
+<img src="https://github.com/adniltonsantos/adniltonsantos/blob/main/Mario_Gameplay.gif" alt="Mario Game" width="980">
