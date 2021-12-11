@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <a href="mailto:adniltonweb@gmail.com" target="_blank">
     <img 
-        src="agmail.svg" 
+        src="gmail.svg" 
         alt="codewars" 
         width="25" 
         align="right" />
